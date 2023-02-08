@@ -1,6 +1,6 @@
 # Meu Portfólio
 
-Portifólio criado no evento THE CODER PASS 
+Portfólio criado no evento THE CODER PASS 
 https://www.youtube.com/watch?v=ykQdvYZpWHY
 
 ### TECNOLOGIAS USADAS
